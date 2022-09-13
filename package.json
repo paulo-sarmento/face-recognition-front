@@ -2,7 +2,7 @@
   "name": "facerecognitionbrain",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://paulo-sarmento.github.io/facerecognitionbrain",
+  "homepage": ".",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
